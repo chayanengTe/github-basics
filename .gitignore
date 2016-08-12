@@ -1,0 +1,14 @@
+#Exclude the .htaccess file
+*.htaccess
+#Exclude the .txt files
+*.txt
+#But not the .README.txt file
+!README.txt
+# Exclude the PSD and ai files 
+*psd
+*ai
+#Exclude the log file
+*.log
+#Exclude the fonts folder
+*_fonts
+
